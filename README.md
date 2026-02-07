@@ -10,7 +10,7 @@ git status
 git add , o gidd add -a
 git commit -m "Descripcion del cambio en el proyecto"
 git push
-```
+```#
 ## Nota:
 si no me dice quien soy, entonces necesito restaurar la PC.
 
@@ -22,3 +22,5 @@ numero = 328
 flotante = 3.1416
 booleano = True 
 ```
+# practica por mi parte
+para recordar y asi practicar lo que ayer vi 
